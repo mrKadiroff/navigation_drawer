@@ -13,7 +13,7 @@
 
         <androidx.appcompat.widget.Toolbar
             android:id="@+id/toolbar_main"
-            android:background="#221F1F"
+            android:background="#03A9F4"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             app:layout_constraintTop_toTopOf="parent"/>
@@ -51,7 +51,7 @@
         app:headerLayout="@layout/drawer_header"
         app:menu="@menu/navigation_menu"
         android:fitsSystemWindows="true"
-        android:background="@color/black"
+        android:background="@color/teal_200"
         app:itemTextColor="@color/white"
         app:itemIconTint="#4B1AA1"/>
 
